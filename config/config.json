@@ -1,0 +1,8 @@
+{
+    "port": 8080,
+    "crypto":{
+        "public": "J3BHvJXMl07mE4fKjDOPnY0qdtF6N8YARnBU4CRn93E=",
+        "private": "2LwGId1GxIY3nk7lmH8XeRtsRyJSeC8bUIvWE8uP3EoncEe8lcyXTuYTh8qMM4+djSp20Xo3xgBGcFTgJGf3cQ==",
+        "algo": "ed25519"
+    }
+}
