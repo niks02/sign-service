@@ -1,6 +1,6 @@
-# Signature Service
+# Sign Service
 
-This repository contains the Signature Service. 
+This repository contains the Sign Service. 
 
 ## I just cloned the repository. What next?
 
@@ -20,8 +20,6 @@ go build .
 * `config/` directory stores the business logic for the config API. `config.json` is present in this directory where port and keypair is present. 
 * `signature/` directory stores the business logic for the signature API.
 * `transaction/` directory stores the business logic for the transaction API.
-* `Assignment_Part2/` directory contains the answers to Part2 questions
-**Note that** unit tests are not included due to time constraints
 
 ## Code Tested on 
 * macOS Mojave Version 10.14.6
